@@ -1,20 +1,20 @@
-<h1 align="center">Hi, I'm Fancy Nateku Megiri 👋</h1>
+<h1 align="center">Fancy Nateku Megiri</h1>
 <h3 align="center">Full-Stack Software Engineer · I build systems that organizations run on</h3>
 
 <p align="center">
   <a href="https://www.fancymegiri.co.ke"><img src="https://img.shields.io/badge/Portfolio-fancymegiri.co.ke-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:fancymegiri01@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:fancymegiri01@gmail.com"><img src="https://img.shields.io/badge/Email-fancymegiri01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### About me
+### About
 
-- 🎓 Software Engineering student at **Kisii University**
-- 🛠️ I build full-stack systems with **React, TypeScript, Node.js and MySQL**
-- 🏛️ Lead developer on the **KSUCU-MC** platforms: web, mobile app, backend and finance system
-- 🍯 Founder of **Fancy Golden Drop**, so I build software with a business owner's eye
-- 💼 **Open to** internships, freelance builds and collaborations
+- Software Engineering student at **Kisii University**
+- Lead developer of the **KSUCU-MC** platforms: web, mobile app, backend and finance system
+- I build full-stack systems with **React, TypeScript, Node.js and MySQL**
+- Founder of **Fancy Golden Drop**, so I build software with a business owner's eye
+- Open to internships, freelance builds and collaborations
 
 ---
 
@@ -23,6 +23,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[KSUCU-MC Management System](https://www.fancymegiri.co.ke)** | Runs user admin, dashboards and data workflows for Kisii University Christian Union. Live in production. | TypeScript · Node.js · MySQL |
+| **[Itumbe Resort](https://itumberesort.vercel.app)** | Live website for a hospitality business | React · TypeScript · Vite · Tailwind |
 | **[AgriTrack](https://github.com/Fancy-nateku/AgriTrack)** | Finance management for farmers: income, expenses, dashboards and reports | React · TypeScript · Node.js · MySQL |
 | **Role-Based Finance Admin** | Multi-role financial records system with separate access for treasurers, auditors and chairs | React · Node.js · TypeScript · MySQL |
 | **[DVOTES](https://github.com/Fancy-nateku/DVOTES)** | Digital voting platform | TypeScript |
@@ -64,4 +65,4 @@
 
 ---
 
-<p align="center"><i>I'm open to new opportunities. Reach me at <a href="mailto:fancymegiri01@gmail.com">fancymegiri01@gmail.com</a>.</i></p>
+<p align="center"><i>Open to new opportunities. Reach me at <a href="mailto:fancymegiri01@gmail.com">fancymegiri01@gmail.com</a>.</i></p>
